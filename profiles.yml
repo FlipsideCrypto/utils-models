@@ -1,4 +1,4 @@
-xyz:
+utils:
   target: dev
   outputs:
     dev:
